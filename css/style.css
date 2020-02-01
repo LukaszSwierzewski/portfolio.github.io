@@ -202,3 +202,12 @@ nav li a {
     float: none; }
   .btn__left {
     float: none; } }
+
+.disabled {
+  pointer-events: none;
+  cursor: default;
+  background-color: #98a0ad; }
+
+.default--link {
+  color: #867bfb;
+  text-decoration: none; }
