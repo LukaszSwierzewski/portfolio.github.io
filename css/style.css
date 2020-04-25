@@ -448,6 +448,8 @@ ul {
   border-radius: 3px;
   margin-top: 6px;
   margin-left: 3px; }
-
+.hero-img {
+ display: none; 
+}
 .contact {
   background-color: #867bfb; }
