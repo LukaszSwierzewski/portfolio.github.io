@@ -13,7 +13,11 @@ body {
 .tech-img div p {
  color: white;
   font-weight: 500;
+  margin-top: 5px;
   font-size: 1.5rem;
+}
+.tech-img div {
+ margin: 0px 1rem;
 }
 .hero {
   /* Sizing */
