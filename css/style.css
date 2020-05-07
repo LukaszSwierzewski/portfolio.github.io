@@ -10,7 +10,11 @@ body {
 .btns:hover {
   background: #867bfb;
   border: 3px solid #867bfb !important; }
-
+.tech-img div p {
+ color: white;
+  font-weight: 500;
+  font-size: 1.5rem;
+}
 .hero {
   /* Sizing */
   width: 100vw;
