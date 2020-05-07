@@ -194,8 +194,7 @@ nav li a {
 
 .grid__left {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-gap: 20px 10px;
+  grid-template-columns: 3fr 5fr;
   text-align: left; }
   .grid__left p {
     font-size: 1.1rem;
@@ -221,8 +220,8 @@ nav li a {
 
 .grid__right {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-gap: 20px 10px; }
+  grid-template-columns: 5fr 3fr;
+}
   .grid__right p {
     font-size: 1.1rem; }
   .grid__right h2 {
