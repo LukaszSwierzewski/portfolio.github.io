@@ -107,8 +107,8 @@ nav li a {
   font-size: 24px;
   border: 2px solid #867bfb;
   color: #867bfb;
-  border-radius: 20px;
-  padding: 10px 15px;
+  border-radius: 10px;
+  padding: 6px 15px;
   transition-duration: 0.2s; }
   .btn__primary__left {
     float: left; }
@@ -404,7 +404,7 @@ ul {
   background: rgba(0, 0, 0, 0.31); }
 
 .item div p {
-  width: 80%; }
+  text-align: center; }
 
 ::-webkit-scrollbar-corner {
   display: none;
