@@ -133,6 +133,9 @@ nav li a {
 
 .tech-img {
   text-align: center;
+      display: flex;
+    place-content: center;
+    flex-flow: wrap;
   padding: 1rem; }
 
 .action-btn {
