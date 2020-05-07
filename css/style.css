@@ -22,7 +22,7 @@ body {
 .hero {
   /* Sizing */
   width: 100vw;
-  height: 100vh;
+  height: 75vh;
   /* Flexbox stuff */
   display: flex;
   justify-content: center;
