@@ -186,7 +186,7 @@ nav li a {
 
 .grid__right div:first-child {
   width: 80%;
-  margin: 0px 0px 0px auto; }
+  margin: 0px 0px 0px 50px; }
 
 .grid__left div:last-child {
   width: 80%;
